@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="bluetoothbt">Get Charging state</string>
+    <string name="loc_btn">Get Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="lg_login">Login</string>
+    <string name="rg_register">Register</string>
+    <string name="rg_have_an_acc">Already have an account?</string>
+    <string name="new_pass">new password</string>
+    <string name="forgotPass">Forgot Password</string>
+    <string name="confirm_pass">Confirm password</string>
+    <string name="empty_name">username required</string>
+    <string name="invalid_email">invalid email</string>
+    <string name="empty_email">email required</string>
+    <string name="empty_pass">password required</string>
+    <string name="invalid_pass">invalid password</string>
+    <string name="lg_forgot_pass">Forgot password?</string>
+    <string name="alert_negbttn">Not Sure</string>
+    <string name="alert_pos_btn">Got it</string>
+    <string name="alertTitle">Use your location</string>
+    <string name="alert_content">Location Tracker collects location data to enable \'get location\' feature. Please accept to get your location latitude and longitude.</string>
+</resources>
